@@ -1,0 +1,16 @@
+body{
+    background-color: dimgray;
+}
+button{
+background-color: blueviolet;
+color: black;
+margin: auto;
+display: block;
+border-radius: 6px;
+font-size: large;
+padding: 10px;
+box-shadow: inset;
+}
+button:hover{
+    background-color: darkmagenta;
+}
